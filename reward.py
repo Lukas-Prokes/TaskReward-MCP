@@ -1,3 +1,5 @@
+import json
+
 print("Congratulations! You've completed a task and earned 20 energy points!")
 with open('data/energy.json', 'r') as f:
         data = json.load(f)

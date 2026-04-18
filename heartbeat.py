@@ -25,4 +25,4 @@ while True:
     with open('data/energy.json', 'w') as f:
         json.dump(data, f, indent=4)
     
-    time.sleep(10)
+    time.sleep(2)
