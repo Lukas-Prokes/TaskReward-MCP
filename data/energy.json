@@ -1,5 +1,7 @@
 {
-    "current_energy": 97,
-    "max_energy": 100,
-    "metabolic_rate": 1
+  "current_energy": 100,
+  "max_energy": 100,
+  "passive_gain": 0,
+  "worker_count": 1,
+  "sensors_unlocked": false
 }
